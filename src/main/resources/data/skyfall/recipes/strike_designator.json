@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RGR",
+    "ICI",
+    "IRI"
+  ],
+  "key": {
+    "R": { "item": "minecraft:redstone_torch" },
+    "G": { "item": "minecraft:tinted_glass" },
+    "I": { "item": "minecraft:iron_ingot" },
+    "C": { "item": "minecraft:comparator" }
+  },
+  "result": {
+    "item": "skyfall:strike_designator",
+    "count": 1
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "drone_engine": {
+    "category": "hostile",
+    "subtitle": "subtitles.skyfall.drone_engine",
+    "sounds": [
+      {
+        "name": "skyfall:drone_engine",
+        "stream": false
+      }
+    ]
+  },
+  "drone_approach": {
+    "category": "hostile",
+    "subtitle": "subtitles.skyfall.drone_approach",
+    "sounds": [
+      {
+        "name": "skyfall:drone_approach",
+        "stream": false
+      }
+    ]
+  },
+  "target_lock": {
+    "category": "players",
+    "subtitle": "subtitles.skyfall.target_lock",
+    "sounds": [
+      {
+        "name": "skyfall:target_lock",
+        "stream": false
+      }
+    ]
+  },
+  "airstrike_warning": {
+    "category": "record",
+    "subtitle": "subtitles.skyfall.airstrike_warning",
+    "sounds": [
+      {
+        "name": "skyfall:airstrike_warning",
+        "stream": false
+      }
+    ]
+  },
+  "drone_whistle": {
+    "category": "hostile",
+    "subtitle": "subtitles.skyfall.drone_whistle",
+    "sounds": [
+      {
+        "name": "skyfall:drone_whistle",
+        "stream": false
+      }
+    ]
+  },
+  "explosion_blast": {
+    "category": "blocks",
+    "subtitle": "subtitles.skyfall.explosion_blast",
+    "sounds": [
+      {
+        "name": "skyfall:explosion_blast",
+        "stream": false
+      }
+    ]
+  },
+  "explosion_bass": {
+    "category": "blocks",
+    "subtitle": "subtitles.skyfall.explosion_bass",
+    "sounds": [
+      {
+        "name": "skyfall:explosion_bass",
+        "stream": false
+      }
+    ]
+  },
+  "explosion_rumble": {
+    "category": "ambient",
+    "subtitle": "subtitles.skyfall.explosion_rumble",
+    "sounds": [
+      {
+        "name": "skyfall:explosion_rumble",
+        "stream": false
+      }
+    ]
+  },
+  "debris_fall": {
+    "category": "blocks",
+    "subtitle": "subtitles.skyfall.debris_fall",
+    "sounds": [
+      {
+        "name": "skyfall:debris_fall",
+        "stream": false
+      }
+    ]
+  },
+  "fire_ambience": {
+    "category": "ambient",
+    "subtitle": "subtitles.skyfall.fire_ambience",
+    "sounds": [
+      {
+        "name": "skyfall:fire_ambience",
+        "stream": false
+      }
+    ]
+  },
+  "emp_blast": {
+    "category": "blocks",
+    "subtitle": "subtitles.skyfall.emp_blast",
+    "sounds": [
+      {
+        "name": "skyfall:emp_blast",
+        "stream": false
+      }
+    ]
+  }
+}

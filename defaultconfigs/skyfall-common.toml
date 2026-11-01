@@ -1,0 +1,26 @@
+# SKYFALL - Tactical Airstrike System Default Configuration
+["Skyfall Tactical Airstrike Configuration"]
+	#Maximum number of strike UAVs allowed in a single airstrike (Range: 1 ~ 64)
+	maxDroneCount = 32
+	#Maximum target zone radius in blocks (Range: 4.0 ~ 256.0)
+	maxStrikeRadius = 64.0
+	#Height above the target Y coordinate at which Strike UAVs deploy (Range: 30.0 ~ 220.0)
+	defaultSpawnAltitude = 85.0
+	#Base warhead explosion power (4.0 = TNT, 6.0 = Cruise Missile / Heavy UAV) (Range: 1.0 ~ 32.0)
+	explosionPower = 6.0
+	#Whether high-explosive airstrikes destroy terrain blocks
+	destroyBlocks = true
+	#Multiplier applied to warhead blast and shrapnel damage against entities (Range: 0.0 ~ 10.0)
+	entityDamageMultiplier = 1.5
+	#Multiplier for cinematic explosion particles and volumetric smoke density (Range: 0.1 ~ 3.0)
+	particleDensity = 1.0
+	#Duration in ticks (20 ticks = 1 second) that battlefield explosion fog lingers (Range: 20 ~ 600)
+	smokeDurationTicks = 180
+	#Multiplier for camera shake intensity during nearby detonations (Range: 0.0 ~ 3.0)
+	screenShakeIntensity = 1.0
+	#Master volume multiplier for custom airstrike audio layers (Range: 0.0 ~ 2.0)
+	soundVolumeMultiplier = 1.0
+	#Delay in ticks between target lock warning siren and UAV wave deployment (Range: 0 ~ 200)
+	warningDurationTicks = 50
+	#Cooldown in ticks between Strike Designator activations for non-creative players (Range: 0 ~ 6000)
+	cooldownTicks = 160

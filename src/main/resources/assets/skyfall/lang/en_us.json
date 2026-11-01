@@ -1,0 +1,19 @@
+{
+  "itemGroup.skyfall": "SKYFALL Tactical Systems",
+  "item.skyfall.strike_designator": "Tactical Airstrike Designator",
+  "item.skyfall.strike_designator.desc1": "Right-Click: Lock target & call in UAV Airstrike",
+  "item.skyfall.strike_designator.desc2": "Sneak + Right-Click: Cycle Strike Mode",
+  "item.skyfall.strike_designator.desc3": "Sneak + Left-Click: Cycle Strike Radius",
+  "entity.skyfall.strike_drone": "MQ-27 Skyfall Strike UAV",
+  "subtitles.skyfall.drone_engine": "Strike UAV engine hums",
+  "subtitles.skyfall.drone_approach": "Strike UAV approaching target",
+  "subtitles.skyfall.target_lock": "Target coordinates locked",
+  "subtitles.skyfall.airstrike_warning": "Tactical airstrike warning siren",
+  "subtitles.skyfall.drone_whistle": "Incoming strike warhead whistling",
+  "subtitles.skyfall.explosion_blast": "Tactical warhead detonation",
+  "subtitles.skyfall.explosion_bass": "Heavy concussion wave",
+  "subtitles.skyfall.explosion_rumble": "Distant explosion rumble",
+  "subtitles.skyfall.debris_fall": "Explosion debris falling",
+  "subtitles.skyfall.fire_ambience": "Aftermath fire crackling",
+  "subtitles.skyfall.emp_blast": "EMP electromagnetic discharge"
+}
